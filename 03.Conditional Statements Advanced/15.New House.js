@@ -2,6 +2,7 @@ function newHouse(input) {
     let flower = input[0]
     let quantity = Number(input[1])
     let budget = Number(input[2])
+    
     let roses = 5
     let dahlias = 3.8
     let tulips = 2.8
